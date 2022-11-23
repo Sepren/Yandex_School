@@ -1,2 +1,2 @@
-# Yandex_School
-course from Yandex
+# Yandex_School_Newbie
+course from Yandex for beginner
